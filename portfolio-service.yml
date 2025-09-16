@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: portfolio_db
+      port: 27017
+server:
+  port: 8200
